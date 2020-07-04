@@ -1,0 +1,412 @@
+Professional Synopsis:	
+	Working as a Performance Test Consultant with 10 years of experience in end to end Performance testing using Load Runner/Performance Center, Rational Performance Tester, JMeter, Linux Shell scripting and Perfecto tool for mobile testing, monitoring using APM Tools-Ca Wily Introscope, HP Site scope, App Dynamics, Nmon & Perfmon.
+	Having experience Linux system Administration and cluster configuration in Windows Servers.
+	Good knowledge in Cloud (AWS) and containerized based performance testing with Docker, Kubernetes.
+	Expertise in Non-Functional Requirements gathering, Performance Test Proposals, Performance Test plan, Test Environment setup,
+Schedules, scripting, execution and Test exit reports, building
+Team and managing resources.
+	Having 3 years of Onsite experience as a performance test lead,    
+Worked with Fidelity Bank (Ghana), The Co- operative Bank (UK),     
+     National wide Building Society (NBS-UK) clients and worked with 
+    Major clients World Fuel Services (WFS-USA), SunTrust Bank-USA,   
+    Bank of Montreal-Canada, NetApp-USA, Computer Associates (ca)- 
+    USA, IBM Software Labs clients in Offshore.
+
+	Experience in Performance Testing using several protocols WebHTTP/HTML, Mobile-WebHTTP/HTML, SAP-Web, Message Queue (MQ), Oracle NCA, Web Services, Siebel Web, RTE and FTP protocols.
+
+
+	Experience in Collecting JVM heap metrics, Thread statistics and
+
+Garbage Collection of Application servers (WebLogic) using  
+Visual VM, JConsole, Jprofiler. Analysis AWR Reports and                                             provide recommendations on oracle database.
+	Excellent exposure in managing different testing projects
+(Banking Financial, Health Care, Energy and Utility service) with different Types of testing from Performance testing, Batch Testing, Mobile Testing, API testing, fail over testing and other functional testing
+
+PROFESSIONAL EXPERIENCE & EDUCATIONAL PROFILE
+
+
+
+		IBM India PVT LTD, Hyderabad-
+Organization		June2008 to till date.
+Summary		
+		Computer Associates (ca), Hyderabad-
+		Nov2005 to June2008.
+	     OSS PVT LTD, Hyderabad-Aug 2002 to Dec 2004.
+Educational		Master of Computer Application (MCA) from
+Profile		Andhra University – Visakhapatnam
+		
+
+ 
+
+
+
+
+
+Skills
+
+Professional
+
+Performance Testing (Load Runner/Performance Center)
+
+
+
+Performance Testing (Jmeter, Rational Performance Tester, Linux Shell Script)
+
+
+
+APM Tools- Ca Wily Introscope, HP Site scope, App Dynamics, Nmon & Perfmon
+
+
+
+Performance Engineering (using Visual VM, JConsole, Jprofiler for Web Logic App Server,AWR Reports for Oracle)
+
+
+
+Mobile Application Performance Testing (Perfecto Tool)
+
+
+
+Java
+
+
+
+Linux Administration/Network-LAN
+
+
+
+DevOps (GIT, Dockers,kubernate,Jenkins)
+
+
+
+Database (Oracle)
+
+
+
+Virtualization (VMware Work Station/ AWSSolaris Zones creation, MS Virtual Server)
+
+
+
+Protocols (TCP/IP, IPv4, DHCP, FTP)
+
+
+
+Certifications:
+
+•	CSTM (Certified Software Test Manager).
+
+•	HP0-M48: HP Load Runner 11.x Certification.
+
+•	ISTQB Basic level certification in Testing
+ 
+Project Experience:
+
+Current Project:
+Duration: 03/2018-Till Date
+
+Project Name:	1)SAP based Mobile Time Sheet Entry Application
+	2) SAP Cloud for Customer (C4C)
+Client	Ernst & Young,USA
+Role	Performance Test Lead
+Environment	SAP HANA Cloud Platform (HCP), SAP FIORI ,SAP BASIS
+	
+
+Ernst & Young is a global integrated professional services organization offering assurance, tax,
+
+Transaction and other advisory services including IT audits and consulting. The company is based in London, UK .we engaged in End-to-End performance testing for Pilot and Wave1 releases. As a part of performance testing we were identified critical business transactions and named as KPI’s, for which we are capturing the responses after conducting End User (Load, Volume) testing and Batch. As part of Load test we executed for 25%,50%,100% and 125% load and compared the results with couple of cycles each and validated that the response meet the needs of the business based on an agreed set of KPIs. KPIs were established for the functional areas like c4C, Mobile time sheet entry.
+
+SAP Cloud for Customer (C4C) runs on top of SAP HANA Cloud Platform (HCP). Besides the own Platform for Admin Tools C4C offers overall HCP Services as „Application Bundles“to customers.
+
+Mobile Time sheet Entry: FIORI is front end and SAP basis is backend for mobile Timesheet entry Application.
+
+It is used for E&Y employee’s time entries in mobile.
+
+Roles and Responsibilities:
+
+•	Preparation of Test Plan, schedule and test exit report.
+
+•	Understanding of the application functionality and Non Functional requirements along with SLA’s defined. Identifying the test scenarios to validate the performance of key business functions and certifying the NFR requirements. Identify the test environment, test data and access needs.
+
+•	Develop the test plan for the tasks, dependencies and participants required to mitigate the risks to system quality and obtain stakeholder support for this plan.
+
+•	Work closely with Business/Functional teams to understand/analyze requirements, translating and implementing the business requirements into performance test cases and test scripts. Work with application development, architecture, infrastructure and engineering groups for performance testing to achieve performance objectives
+Design, develop, execute and analyze load/stress/endurance tests using LoadRunner performance test tool.
+
+Project :
+Duration: 08/2017-02/2018
+Project Name:	Oracle DC Cloud migration project.
+Client	World Fuel Services(WFS),USA
+Role	Performance Test Lead
+Environment	Oracle EBS suite, WebLogic server10.53,Jira, Load Runner 12.53, MS SQL Developer
+
+WFS having different oracle applications (Tender Reprice, RCD,Felix,Exposure Form) and oracle batch jobs jobs with EBS suite on physical servers. They are planning to move applications and oracle jobs (EBS suite) to cloud environment. Oracle's E-Business Suite (also known as Applications/Apps or EB-Suite/EBS) consists of a collection of enterprise resource planning (ERP), customer relationship management (CRM), and supply-chain management (SCM) computer applications either developed or acquired by Oracle. Performance testing team needs to measure the Performance of applications and oracle jobs before migration and after cloud migration.
+
+Involved in High level meeting with stake holders to finalize the Performance testing Scope of applications and Batch jobs.
+
+Preparing test scenarios flow for identified test scenarios of corresponding release.
+
+Prepared Load Test scripts and automated batch jobs using HP Load Runner on existing environment and cloud environment.
+
+Executed Load, Stress and endurance tests on existing environment and cloud environment.
+ 
+Co-ordination with stake-holders in terms of reporting, risk and issues management.
+
+Collecting and Analyzing the JVM heap metrics, Thread statistics and Garbage Collection of Application servers (WebLogic) using Visual VM. Analysis AWR Reports and provide recommendations on Oracle database.
+
+Coordinating with different teams (Application, Infrastructure) for successful execution of performance tests of applications and batch jobs.
+
+Preparing weekly status report and sent to stake holders. Coordination with Management team with Status meetings and escalations
+
+In the absence of manager handled all performance testing activities. Preparing test report for each run and shared with Stake holders.
+
+Project#2:
+
+Duration: 06/2017-02/2018
+Project Name:	ITPS(International Trip Planning Services) Mobile Application
+Client	World Fuel Services(WFS),USA
+Role	Performance Test Lead
+Environment	Load Runner 12.53, Perfecto tool, Navtech Server, SQL Server, IIS
+	server,keycloak,Oracle Server, Jmeter, New Relic APM
+	
+	
+
+Project Description: ITPS(International Trip Planning Services) Mobile Application Performance Testing
+
+World Fuel Services (WFS) has announced a new integrated flight planning application for the iPad. Developed by IBM with input from the Weather Company, Seattle Avionics, Aircraft Performance Group, NavBlue, Mapbox, SkyVector, PDFTron and AVfinity.
+
+The iOS app will include features such as profile weather mapping and a journey log embedded into an EFB. It will cover the full span of the trip, including a disconnected mode for in-cockpit use. For WFS customers, it will provide free access to full planning information such as airport, country and permit requirements, allowing them to drill down to the areas they need. It will also include a news channel, providing up-to-date information on key topics
+
+•	Initiate/Involve in meetings with various teams of the project for detailed analysis of Performance Test Requirements.
+
+•	Plan and draw effort estimates and develop test plan based on the discussions. Conduct Proof of concepts if required.
+
+•	Coordinate and work with production support teams to extract production volumetric to derive workload mix for Performance testing
+
+•	Setup discussions with Data teams for backup, restore/refresh activities. Work with Infrastructure and functional teams for environment and application readiness for testing.
+•	Engage application support, DB and network monitoring teams for performance test monitoring
+
+•	Design Load Runner scripts and Scenarios as per the test plan. Coordinate with data teams for data setup and Isolate environment for performance testing.
+
+•	Conduct load, stress, soak and Performance tests as per the requirements of the project
+
+•	Analyze Performance bottlenecks and identify root cause with support of the project team. Raise Performance defects accordingly in the Jira tool.
+
+•	Document test results and observations of the test. Interlock with project stakeholders on the next steps
+•	Participate in defect calls, status/review calls and plan next steps.
+
+•	Escalate issues/risks in a timely manner and ensure optimal utilization of operational and financial resources consistently. Involve in go - no go decisions with the project stakeholders.
+
+•	Document lessons learned & test process improvement. Gather client feedback upon project completion
+
+Project#3
+Project #3 and Project#4 had done with NBS client: Duration-11/2016-05/2017
+Project Name:	Fujitsu Mainframe Upgrade Performance Testing
+Client	National wide Building Society(NBS),UK
+Role	Onshore Performance Test Lead
+Environment	Fujitsu Mainframe Servers, Load Runner Tool 11.52, Alias, Genisys,Online Banking,
+	MSO applications, New Relic APM.
+	
+	
+
+NBS is the one of the leading Bank in UK. To improve the performance of the Mainframe servers
+
+NBS decided to upgrade hardware of Fujitsu Mainframe Server. As part of performance testing we measured the performance of Enigma web services, batches before Upgrade and after upgrade of Hardware.
+ 
+Project#4
+			
+	Project Name:	IFRS9(International Financial Report Format 9) using Hyperion Application
+	Client	National wide Building Society(NBS),UK
+	Role	Onshore Performance Test Lead
+	Environment	FDMEE, Application,Database,Essbase,planning servers,RRDS,Load runner tool
+		11.52,HP QC,HP site scope
+			
+
+IFRS9 is a new standard for reporting on financial instruments developed by the International accounting standards board (IASB) and will replace the current account standard, IA39.
+
+Extract the Feed from source systems different business unit (Commercial/Treasury/Retail/RWO/Capman/Reference Banding) /Manual for each business area and sending into RRDS (Regulatory and reporting Database).Then data will move to Hyperion application (FDMEE/Essbase/Planning) using Ctrl-M jobs. Using data, we can retrieve the static and adhoc reports. As part of performance testing we must measure the performance of Hyperion application. Environment: FDMEE, Application,Database,Essbase,planning servers,RRDS,Load runner tool 11.52,HP QC,HP site scope.
+
+Worked as a lead and preparing the Performance Test plan, Analyze the BRS documents, performance metrics and Test result reports.
+
+Distribute the work within the team.
+
+Gathering performance scenarios based on Business Requirement Specifications. Preparing test data and executing the test scripts.
+
+Executing the Scenarios in Performance center and capturing the server metrics using HP Site scope. As per client requirements set the workload model in ALM.
+
+Involved in the performance tests like load test and Soak test.
+
+Used Jprofiler for finding the methods/Class which taking more memory and CPU. Raising Performance test defects if transactions are not meeting SLA’s
+
+Monitoring the test results based on that specify the recommendations. Participate in the Reviews to evaluate Performance issues with the team.
+
+Project#5
+
+Project Name:	Enterprise Services Programme (ESP)
+Client	The Co-operative Bank,UK
+Role	Onshore Performance Test Lead
+Environment	Mainframe Servers, Load Runner Tool 11.52, Nmon, Perfmon, Iliad Test Tool, 4tress,
+	Trusteer stub, Financle, FirstVision,FPS gateway.
+	
+
+Project Description: From The Co-operative Group and is committed to a strategic programme to achieve operational and physical separation of The Co-operative Bank from the Co-operative Group. The Enterprise Services Programme (ESP) has been established to deliver against these objectives and the separation work streams are tasked with ensuring that only Bank data persists in the Target environment and that all Group (non-Bank) data has been removed. Roles and Responsibilities:
+
+Worked on below applications using different Load Runner tool protocols.
+Application	Protocol
+ATM	MQ using Wincor Simulator.
+e-Banking	Web
+IVR	Web Services
+	
+Mobile Banking	Web Services
+Pioneer	Web Services
+POS	MQ
+Faster Payments	Iliad Test Tool
+PIBS	MQ
+Smile	MQ
+Mainframe Test Preparation	RTE protocal
+
+For preparing new MQ scripts we have used old scripts and modified the MQ messages in data.mq and QManager Name, Channel name, Put Queue Name, Get Queue name.
+•Involved in Performance Test plan review. Understanding of the application functionality and Non Functional
+ 
+Requirements along with SLA’s defined. Identifying the test scenarios to validate the performance of key business functions and certifying the NFR requirements. Identify the test data and access needs for bubble environment.
+
+•	Prepare Vugen scripts and Execution of multi-user load and/or data volume tests and analysis of collected performance data and resource information. Identification of performance problems and bottlenecks. Collaboration with members of application development teams to investigate and resolve these problems.
+
+•	Design, develop, execute and analyze load/ endurance tests using LoadRunner performance test tool and compare the results with source environment tests.
+
+•	Analyze test results for compliance against requirements/preset service level agreements and provide report to client along with information on bottlenecks and potential causes/resolutions. Gather and analyze performance test results and translate to provide performance improvements and recommendations. Give recommendations to performance tuning of Application servers and DB servers.
+
+Project#6: Duration:10/2014 - 09/2015
+Project Name:	To Monitor the Fidelity Bank production servers performance for different
+	Applications.
+	
+Client	Fidelity Bank -GHANA
+Role	Onshore Performance Test Lead.
+	
+	
+Environment	Flexcube,AIX 6.1 servers, Oracle Enterprise manager, Oracle, Nmon tool, Weblogic
+	10.3,Oracle 11,POC done using Load runner 11.52
+	
+	
+
+Roles and Responsibilities:
+
+•	Monitor the production systems and collecting server utilization of the application servers, and backend servers during day to day activities. Identify application/infrastructure bottlenecks in the performance, conduct analysis and provide recommendations to improve performance.
+
+•	Monitor the production servers while running the EOD/EOM/EOY batch jobs and analyze the AWR reports and Nmon reports.
+
+•	POC done with Load runner 11.52 on Flexcube application.
+•	Plan and draw effort estimates and develop project plan based on the discussions.
+•	Prepared performance testing approach and present it to client.
+
+•	Coordinate and work with production support teams to extract production volumetric to derive workload mix for Performance testing.
+
+•	Analyze Performance bottlenecks using AWR reports and identify root cause with support of the project team.
+
+•	Escalate issues/risks in a timely manner to Project management team to avoid production servers down time.
+•	Prepare Root cause analysis document for server performance issues.
+
+Project#7,#8,#9,#10:
+
+Duration: 09/2012 – 10/2014  24 months.
+
+NetApp-ASUP.Next, Quote Edge (Sales Force), Cluster Mode Support Site, NetApp-Magma2 projects had done in NetApp
+account.
+	Project Name:	Performance Testing of NetApp applications
+		
+	Client	NetApp-USA
+	Role	Performance Test analyst
+		
+		
+	Environment	Please find the details from the below tables
+		
+		
+	Project	Environment
+	NetApp-ASUP.Next	Web Logic Server, Hadoop Cluster Servers, Load runner9.1/11.52,Performance
+		center9.1/11.52,Linux shell scripts, App Dynamics,Rest API.
+	Quote Edge(Sales Force)	Environment: Siebel 7.5, Sun Solaris 8, SalesForce, Load runner9.1/11.52,Performance
+		center9.1/11.52.
+	Cluster Mode Support	Environment Solaris10, Web logic Server, Oracle11g, Load runner9.1, Performance
+	Site	center9.1
+	NetApp-Magma2	RH Enterprise Linux 5.7, Weblogic Server, Oracle11g,Load runner9.1,Performance
+		center9.1
+ 
+Roles and Responsibilities:
+
+•	Preparation of Test Plan, schedule and test exit report.
+
+•	Understanding of the application functionality and Non Functional requirements along with SLA’s defined. Identifying the test scenarios to validate the performance of key business functions and certifying the NFR requirements. Identify the test environment, test data and access needs.
+
+•	Develop the test plan for the tasks, dependencies and participants required to mitigate the risks to system quality and obtain stakeholder support for this plan.
+
+•	Work closely with Business/Functional teams to understand/analyze requirements, translating and implementing the business requirements into performance test cases and test scripts. Work with application development, architecture, infrastructure and engineering groups for performance testing to achieve performance objectives.
+
+•	Prepare Vugen scripts and Execution of multi-user load and/or data volume tests and analysis of collected performance data and resource information. Identification of performance problems and bottlenecks. Collaboration with members of application development teams to investigate and resolve these problems.
+
+•	Design, develop, execute and analyze load/stress/endurance tests using LoadRunner performance test tool/Linux Shell scripts.
+
+•	Analyze test results for compliance against requirements/preset service level agreements and provide report to client along with information on bottlenecks and potential causes/resolutions. Gather and analyze performance test results and translate to provide performance improvements and recommendations. Give recommendations to performance tuning of Application servers and DB servers.
+
+•	Monitoring the system and collecting server utilization of the application servers, and backend servers during load tests. Identify application/infrastructure bottlenecks in the application performance, conduct analysis and provide recommendations to improve performance. Provide performance observations to management for Go No Go decision criteria. Communicating the status of the QA activities to the other project stake holders.
+
+Project#11:
+Duration: 09/2011 - 02/2012 6 months
+
+Project Name:	RAPID
+	
+Client	IBM Global Business solutions Center
+	
+	
+Role	Performance Test Analyst.
+	
+	
+Environment	AIX6.1,IBM HTTP ServerV7.0, IBM WebSphereCommerce EnterpriseV7.0.0.0.DB2 9.5,
+	Rational performance tester8.2
+	
+	
+
+Project Description: Rapid 2.1 is a WebSphere Commerce v7 asset store, designed to accelerate projects, reduce risk, and lower cost of deployment. The asset delivers several next generation marketing capabilities from social networking functions to personalized promotions and search engine optimization enhancements. Another unique value add that Rapid brings is its multi-channel enablement which delivers value to both the web and the store alike. Rapid was developed with an aim to augment the WebSphere Commerce. The asset is a result of the knowledge gained from hundreds of WebSphere Commerce implementations and encapsulates a set of common configuration and customization requirements which were shared by a vast majority of the B2C clients. Contribution: prepared NFR Test Plans for the project.
+
+•	Involved in understanding the Non Functional Requirements of the application.
+•	Involved in the Performance test script development using Rational Performance Tester
+
+•	Involved in Test setup and in Test executions.
+•	Involved in monitoring all the servers at the time of test execution using Nmon tool.
+•	Involved in analysis of Client side data and Summary report generation.
+
+•	Involved in preparation of executive summary report.
+•	Performed load testing using different loads.
+•	Compare the performance results with V2.0 and prepare bench mark report.
+ 
+Project#12:
+
+Duration: 11/2005 - 06/2008
+Company: Computer Associates (Ca).
+
+Project Name:	Ca e-Trust Access Control Product
+	
+Company	Ca
+	
+Role	Senior QA engineer
+	
+Environment	C, Windows all flavors, AIX, Linux, Star, eTrust Jaswab, STAR, Load Runner8, Wily
+	Introscope,Websphere Application Server,DB2.
+	
+	
+
+Project Description:
+
+Access Control provides the critical layer of security protection for any organization’s servers. With support for a range of environments including Windows, Unix, Linux. Fine-grained management allows you to limit user privileges to the minimal set necessary for their job function, including those of the super user. The policy-based enforcement model efficiently identifies what information users can access and guarantees that granular access level throughout their interaction. Secure audit information helps ensure compliance by proving the interaction each user had with a particular system.
+
+Roles and Responsibilities:
+
+Understanding of the application functionality and Non Functional requirements along with SLA’s defined. Identifying the test scenarios to validate the performance of key business functions and certifying the NFR requirements. Identify the test environment, test data and access needs.
+
+•	Develop the test plan for the tasks, dependencies and participants required to mitigate the risks to system quality and obtain stakeholder support for this plan.
+
+•	Work closely with Business/Functional teams to understand/analyze requirements, translating and implementing the business requirements into performance test cases and test scripts. Work with application development, architecture, infrastructure and engineering groups for performance testing to achieve performance objectives.
+
+•	Design, develop, execute and analyze load/stress/endurance tests using Load Runner performance test tool/Linux Shell scripts.
+
+•	Analyze test results for compliance against requirements/preset service level agreements and provide report to client along with information on bottlenecks and potential causes/resolutions. Gather and analyze performance test results and translate to provide performance improvements and recommendations. Give recommendations to performance tuning of Application servers and DB servers.
+
+•	Worked with technical architects to identify the bottlenecks.
+•	Review various reports prepared by Test engineers. Ensure the timely delivery of different testing milestones.
